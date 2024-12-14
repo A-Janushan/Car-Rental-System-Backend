@@ -1,0 +1,789 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\controllers\\rentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\irepositories\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\irepositories\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\repositories\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\repositories\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\iservices\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\iservices\\irentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\car\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\car\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\rental\\rentaltoreturnadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\rental\\rentaltoreturnadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\entities\\enums\\rentalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\entities\\enums\\rentalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\data\\carrentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\data\\carrentalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\entities\\enums\\cartranstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\entities\\enums\\cartranstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\irepositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\irepositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\irepositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\irepositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\migrations\\20241211114216_user-role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\migrations\\20241211114216_user-role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\irepositories\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\irepositories\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\iservices\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\iservices\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\iservices\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\iservices\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\iservices\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\iservices\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\account\\usertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\account\\usertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\migrations\\20241209172639_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\migrations\\20241209172639_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\migrations\\20241209171927_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\migrations\\20241209171927_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\car\\caravailablitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\car\\caravailablitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\car\\cartoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\car\\cartoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\account\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\account\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\review\\reviewtoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\review\\reviewtoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\rental\\requestforcarowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\rental\\requestforcarowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\rental\\rentaltoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\rental\\rentaltoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\rental\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\rental\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\dtos\\account\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\dtos\\account\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|c:\\users\\wwwja\\downloads\\car_rental_system_new\\car_rental\\car_rental\\car_rental\\car_rental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05EDBA05-D67F-4EC7-91CE-638BFA584AC3}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\car_rental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Car\\CarDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Car\\CarDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Car\\CarDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Car\\CarDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:40:21.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Rental.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Entities\\Rental.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Rental.cs",
+              "RelativeToolTip": "Car_Rental\\Entities\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:29:31.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RentalController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Controllers\\RentalController.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Controllers\\RentalController.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Controllers\\RentalController.cs",
+              "RelativeToolTip": "Car_Rental\\Controllers\\RentalController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA8wFkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:35:49.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Services\\RentalService.cs",
+              "RelativeToolTip": "Car_Rental\\Services\\RentalService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAnwGsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:59:40.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Repositories\\RentalRepository.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Repositories\\RentalRepository.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Repositories\\RentalRepository.cs",
+              "RelativeToolTip": "Car_Rental\\Repositories\\RentalRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwEsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:50:39.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRentalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IRepositories\\IRentalRepository.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\IRepositories\\IRentalRepository.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IRepositories\\IRentalRepository.cs",
+              "RelativeToolTip": "Car_Rental\\IRepositories\\IRentalRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA1wBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:45:36.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Car_Rental\\Controllers\\CarController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAhwCMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:35:13.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RentalToReturnAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Rental\\RentalToReturnAdmin.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Rental\\RentalToReturnAdmin.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Rental\\RentalToReturnAdmin.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Rental\\RentalToReturnAdmin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:41:19.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RentalStatus.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Enums\\RentalStatus.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Entities\\Enums\\RentalStatus.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Enums\\RentalStatus.cs",
+              "RelativeToolTip": "Car_Rental\\Entities\\Enums\\RentalStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:43:48.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRentalService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IServices\\IRentalService.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\IServices\\IRentalService.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IServices\\IRentalService.cs",
+              "RelativeToolTip": "Car_Rental\\IServices\\IRentalService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:28:25.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Car_Rental\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:34:57.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Review.cs",
+              "RelativeToolTip": "Car_Rental\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:30:26.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Car_Rental\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:23:43.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Car.cs",
+              "RelativeToolTip": "Car_Rental\\Entities\\Car.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:28:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Services\\CarService.cs",
+              "RelativeToolTip": "Car_Rental\\Services\\CarService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgv0AAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:59:05.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarRentalContext.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Data\\CarRentalContext.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Data\\CarRentalContext.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Data\\CarRentalContext.cs",
+              "RelativeToolTip": "Car_Rental\\Data\\CarRentalContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:47:50.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarTransType.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Enums\\CarTransType.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Entities\\Enums\\CarTransType.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Enums\\CarTransType.cs",
+              "RelativeToolTip": "Car_Rental\\Entities\\Enums\\CarTransType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:43:34.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Program.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Program.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Program.cs",
+              "RelativeToolTip": "Car_Rental\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:08:19.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Token.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Entities\\Token.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Entities\\Token.cs",
+              "RelativeToolTip": "Car_Rental\\Entities\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:30:36.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IRepositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\IRepositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IRepositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Car_Rental\\IRepositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:29:22.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Car_Rental\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAArwDQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:50:15.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\appsettings.json",
+              "RelativeDocumentMoniker": "Car_Rental\\appsettings.json",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\appsettings.json",
+              "RelativeToolTip": "Car_Rental\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T10:59:59.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IRepositories\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\IRepositories\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IRepositories\\ICarRepository.cs",
+              "RelativeToolTip": "Car_Rental\\IRepositories\\ICarRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:44:46.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Services\\AccountService.cs",
+              "RelativeToolTip": "Car_Rental\\Services\\AccountService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADgv00AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:59:22.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Account\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Account\\RegisterDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:38:48.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241211114216_User-Role.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Migrations\\20241211114216_User-Role.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Migrations\\20241211114216_User-Role.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Migrations\\20241211114216_User-Role.cs",
+              "RelativeToolTip": "Car_Rental\\Migrations\\20241211114216_User-Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:42:18.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Services\\ReviewService.cs",
+              "RelativeToolTip": "Car_Rental\\Services\\ReviewService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:59:54.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "Car_Rental\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:50:52.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IRepositories\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\IRepositories\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IRepositories\\IReviewRepository.cs",
+              "RelativeToolTip": "Car_Rental\\IRepositories\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:45:58.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IServices\\ICarService.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\IServices\\ICarService.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IServices\\ICarService.cs",
+              "RelativeToolTip": "Car_Rental\\IServices\\ICarService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:27:51.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IServices\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\IServices\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IServices\\IAccountService.cs",
+              "RelativeToolTip": "Car_Rental\\IServices\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:28:10.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Car_Rental\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:36:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IServices\\IReviewService.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\IServices\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\IServices\\IReviewService.cs",
+              "RelativeToolTip": "Car_Rental\\IServices\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:28:40.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Car_Rental\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:29:48.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserToReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\UserToReturnDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Account\\UserToReturnDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\UserToReturnDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Account\\UserToReturnDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:39:20.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241209172639_Test.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Migrations\\20241209172639_Test.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Migrations\\20241209172639_Test.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Migrations\\20241209172639_Test.cs",
+              "RelativeToolTip": "Car_Rental\\Migrations\\20241209172639_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:26:39.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241209171927_Init.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Migrations\\20241209171927_Init.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\Migrations\\20241209171927_Init.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Migrations\\20241209171927_Init.cs",
+              "RelativeToolTip": "Car_Rental\\Migrations\\20241209171927_Init.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwFgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:19:28.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CarAvailablityDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Car\\CarAvailablityDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Car\\CarAvailablityDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Car\\CarAvailablityDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Car\\CarAvailablityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:40:06.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CarToReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Car\\CarToReturnDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Car\\CarToReturnDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Car\\CarToReturnDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Car\\CarToReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:40:38.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\LoginDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Account\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:38:33.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Account\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\ChangePasswordDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Account\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:37:56.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ReviewToReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Review\\ReviewToReturnDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Review\\ReviewToReturnDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Review\\ReviewToReturnDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Review\\ReviewToReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:42:38.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Review\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Review\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Review\\ReviewDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Review\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:42:21.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RequestForCarOwner.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Rental\\RequestForCarOwner.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Rental\\RequestForCarOwner.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Rental\\RequestForCarOwner.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Rental\\RequestForCarOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:42:01.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RentalToReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Rental\\RentalToReturnDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Rental\\RentalToReturnDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Rental\\RentalToReturnDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Rental\\RentalToReturnDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:41:42.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RentalDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Rental\\RentalDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Rental\\RentalDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Rental\\RentalDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Rental\\RentalDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:40:57.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\UserDto.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\DTOS\\Account\\UserDto.cs",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\DTOS\\Account\\UserDto.cs",
+              "RelativeToolTip": "Car_Rental\\DTOS\\Account\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:39:02.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Car_Rental.csproj",
+              "DocumentMoniker": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Car_Rental.csproj",
+              "RelativeDocumentMoniker": "Car_Rental\\Car_Rental.csproj",
+              "ToolTip": "C:\\Users\\wwwja\\Downloads\\Car_Rental_System_New\\car_rental\\Car_Rental\\Car_Rental\\Car_Rental.csproj",
+              "RelativeToolTip": "Car_Rental\\Car_Rental.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T10:44:02.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
